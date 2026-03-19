@@ -42,7 +42,7 @@ x8y314y
 
 ⚙️ Installation
 ```bash
-git clone https://github.com/xxxxxxxxx/Dailymotion
+git clone https://github.com/justfortestingnothibghere/Dailymotion
 cd Dailymotion
 pip install aiohttp
 ```
