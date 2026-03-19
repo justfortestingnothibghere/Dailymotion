@@ -36,30 +36,30 @@ Perfect for:
 https://www.dailymotion.com/video/x8y314y
 https://dai.ly/x8y314y
 x8y314y
-
+```
 
 ---
 
 ⚙️ Installation
-
+```bash
 git clone https://github.com/xxxxxxxxx/Dailymotion
 cd Dailymotion
 pip install aiohttp
-
+```
 
 ---
 
 🚀 Usage
-
+```bash
 python main.py
 
 Example:
 
 Enter Dailymotion URL Or Video ID: https://dai.ly/x8y314y
-
+```
 
 ---
-
+```json
 📦 Output Example
 
 ━━━━━━━━ RESULT ━━━━━━━━
@@ -70,16 +70,16 @@ Enter Dailymotion URL Or Video ID: https://dai.ly/x8y314y
 • M3U8 URL  : https://example.m3u8
 • Thumbnail : https://example.jpg
 ━━━━━━━━━━━━━━━━━━━━━━━
-
+```
 
 ---
 
 🛠 Project Structure
-
+```shell
 📁 TeamDev/
  ┣ 📄 main.py
  ┣ 📄 README.md
-
+```
 
 ---
 
